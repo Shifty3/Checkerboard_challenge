@@ -1,0 +1,21 @@
+.box-wrapper {
+  width: 70%;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+.block {
+  width: 100px;
+  height: 100px;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
